@@ -1,1 +1,4 @@
 print("KSU Github Fundamentals")
+name = "Syeda"
+program = "Github Fundamentals"
+print(f"Hello, my name is {name} and I learned the {program}.")
